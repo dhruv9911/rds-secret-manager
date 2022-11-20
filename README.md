@@ -22,6 +22,3 @@ spring:
     username: <secret-name>
 ```
 
-## Authors
-
-* **Luan Vu** - [luanvuhlu](https://github.com/luanvuhlu)
